@@ -1,7 +1,7 @@
 
 # Hi, I'm [南街北巷](https://github.com/deepinsea) 👋.
 
-前端 | 软件工程师 🤖
+后端 | Java开发工程师 🤖
 
 主用 Git 管理平台：<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-%E5%8D%97%E9%A3%8E%E5%8C%97%E5%B7%B7-red)](https://github.com/deepinsea)
@@ -11,7 +11,7 @@
 
 :heart: 旅游| :black_heart: 极客 | :blue_heart: 电影
 
-- :earth_americas: 河南-郑州
+- :earth_americas: 湖南-长沙
 - :video_game: like 小游戏
 - :gem: like 看电影 听音乐
 
